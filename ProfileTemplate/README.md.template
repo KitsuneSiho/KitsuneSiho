@@ -1,0 +1,7 @@
+# About me
+
+- KitsuneSiho
+
+# Today's Weather
+
+{{ template "WEATHER.md.template" }}
