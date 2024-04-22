@@ -4,4 +4,4 @@
 
 # Today's Weather
 
-{{ template "WEATHER.md.template" }}
+{{ template "README.md.template" }}
