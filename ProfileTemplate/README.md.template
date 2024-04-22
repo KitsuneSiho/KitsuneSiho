@@ -4,4 +4,4 @@
 
 # Today's Weather
 
-{{ template "ProfileTemplate/WEATHER.md.template" }}
+{{ template "KitsuneSiho/ProfileTemplate/WEATHER.md.template" }}
