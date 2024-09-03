@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello, world! I am Siho, an aspiring developer. I am currently deeply interested in Linux, cloud computing, Java, machine learning (ML), natural language processing (NLP), and artificial intelligence (AI). <br>
+
+I have a strong interest in system operation and management in a Linux environment and am fascinated by building scalable applications through cloud computing. <br>
+
+Furthermore, I am exploring ways to analyze data using machine learning and enhance human-computer interaction through natural language processing technologies. <br><br>
              
 こんにちは、世界！私はシホという開発志望者です。現在、Linux、クラウド、Java、機械学習（ML）、自然言語処理（NLP）、人工知能（AI）に深い興味を持っています。<br>
 
