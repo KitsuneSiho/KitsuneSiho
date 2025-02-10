@@ -25,7 +25,7 @@ Feel free to check out my repositories and connect with me! 🚀
 
 ## 🗂️ Project Experiences
 
-### 🏠 자취생을 위한 홈케어 정보 공유 플랫폼 (2024.07 - 2024.08) / 팀장 / Backend
+### 🏠 자취생을 위한 홈케어 정보 공유 플랫폼 (2024.07 - 2024.08) / 팀장 / Backend, ML
 [HouseKeeping Backend](https://github.com/KitsuneSiho/HOUSEKEEPING_BACKEND)
 [HouseKeeping_MachineLearning](https://github.com/KitsuneSiho/HOUSEKEEPING_ML)
 - JWT 인증을 통한 OAuth2 소셜 로그인 구현으로 보안 요구 사항 충족
