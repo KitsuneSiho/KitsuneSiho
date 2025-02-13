@@ -71,7 +71,6 @@ Feel free to check out my repositories and connect with me! 🚀
 
 ## 📊 Github stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KitsuneSiho)](https://github.com/anuraghazra/github-readme-stats)</p>
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KitsuneSiho&theme=dark" alt="GitHub Streak" /></a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KitsuneSiho&show_icons=true&theme=radical)
