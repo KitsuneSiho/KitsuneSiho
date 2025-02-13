@@ -12,7 +12,7 @@ Feel free to check out my repositories and connect with me! 🚀
 
 ## 📞 Contact
 - **Email**: lastsiho@gmail.com
-- **GitHub**: [github.com/harrykang0805](https://github.com/KitsuneSiho)
+- **GitHub**: [github.com/KitsuneSiho](https://github.com/KitsuneSiho)
 
 <br>
 
