@@ -11,7 +11,7 @@ Feel free to check out my repositories and connect with me! 🚀
 
 
 ## 📞 Contact
-- **Email**: lastsiho@gmail.com
+- **Email**: owo.siho@gmail.com
 - **GitHub**: [github.com/KitsuneSiho](https://github.com/KitsuneSiho)
 
 <br>
