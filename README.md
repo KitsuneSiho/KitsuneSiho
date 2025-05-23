@@ -1,7 +1,7 @@
 # Have a 'Chill' day 🫠
 
 <hr>
-## [ NOTICE ]
+[ **NOTICE** ]
 
 ```
 Due to personal reasons, I have unfollowed you on GitHub.
