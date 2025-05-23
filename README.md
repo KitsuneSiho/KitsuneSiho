@@ -5,7 +5,7 @@
 
 ```
 Due to personal reasons, I have unfollowed you on GitHub.
-I would be grateful if you choose to continue following me, but please feel free to unfollow if you prefer.
+I would be grateful if you choose to continue following me, but please feel free to unfollow me if you prefer.
 Wishing you an enjoyable development journey ahead. Thanks 😊😊
 
 個人的な事情により、GitHubでのフォローを解除させていただきました。
