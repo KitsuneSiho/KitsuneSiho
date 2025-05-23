@@ -1,5 +1,16 @@
 # Have a 'Chill' day 🫠
 
+<br>
+## [ NOTICE ]
+```
+Due to personal reasons, I have unfollowed you on GitHub. I would be grateful if you choose to continue following me, but please feel free to unfollow if you prefer. Wishing you an enjoyable development journey ahead. Thanks 😊😊
+```
+```
+個人的な事情により、GitHubでのフォローを解除させていただきました。もしよろしければ、引き続きフォローしていただけると幸いですが、ご無理なさらないでください。今後の開発が楽しいものとなりますようお祈り申し上げます~!!( •̀ ω •́ )✧
+```
+
+<br>
+
 ## I'm a **Java-based Backend, Machine Learning, and Linux Developer**.  
 I love building scalable backend systems, exploring AI & ML, and optimizing performance on Linux environments.  
 
