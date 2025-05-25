@@ -1,10 +1,10 @@
 # Have a 'Chill' day 🫠
 
 <hr>
-[ **NOTICE** ]
+[ ** NOTICE ** ]
 
 ```
-Due to personal reasons, I have unfollowed you on GitHub.
+Due to personal reasons, I have unfollowed all on GitHub.
 I would be grateful if you choose to continue following me, but please feel free to unfollow me if you prefer.
 Wishing you an enjoyable development journey ahead. Thanks 😊😊
 
