@@ -8,7 +8,7 @@ Due to personal reasons, I have unfollowed all on GitHub.
 I would be grateful if you choose to continue following me, but please feel free to unfollow me if you prefer.
 Wishing you an enjoyable development journey ahead. Thanks 😊😊
 
-個人的な事情により、GitHubでのフォローを解除させていただきました。
+個人的な事情により、GitHubでのフォローを解除させていただきました。 (｡Ó﹏Ò｡)
 もしよろしければ、引き続きフォローしていただけると幸いですが、ご無理なさらないでください。
 今後の開発が楽しいものとなりますようお祈り申し上げます~!!( •̀ ω •́ )✧
 ```
